@@ -65,7 +65,7 @@ def load_alerts():
             print("Работа завершена.")
             sys.exit(0)
 
-        # Только при положительном ответе создаём демо-лог
+        # При положительном ответе создаём демо-лог
         create_demo_logs()
         path = DEMO_LOG_FILE
         print(f"Демонстрационный режим: {DEMO_LOG_FILE}")
