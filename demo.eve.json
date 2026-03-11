@@ -1,0 +1,8 @@
+{"timestamp": "2026-03-11T10:15:22", "event_type": "alert", "src_ip": "185.220.101.12", "alert": {"severity": 3, "signature": "ET MALWARE C2 Beacon"}}
+{"timestamp": "2026-03-11T10:15:25", "event_type": "alert", "src_ip": "185.220.101.12", "alert": {"severity": 3, "signature": "ET MALWARE C2 Beacon"}}
+{"timestamp": "2026-03-11T10:15:28", "event_type": "alert", "src_ip": "185.220.101.12", "alert": {"severity": 3, "signature": "ET MALWARE C2 Beacon"}}
+{"timestamp": "2026-03-11T10:15:31", "event_type": "alert", "src_ip": "185.220.101.12", "alert": {"severity": 3, "signature": "ET MALWARE C2 Beacon"}}
+{"timestamp": "2026-03-11T10:15:34", "event_type": "alert", "src_ip": "185.220.101.12", "alert": {"severity": 3, "signature": "ET MALWARE C2 Beacon"}}
+{"timestamp": "2026-03-11T10:16:10", "event_type": "alert", "src_ip": "45.32.123.45", "alert": {"severity": 2, "signature": "ET SCAN Nmap"}}
+{"timestamp": "2026-03-11T10:16:12", "event_type": "alert", "src_ip": "45.32.123.45", "alert": {"severity": 2, "signature": "ET SCAN Nmap"}}
+{"timestamp": "2026-03-11T10:17:05", "event_type": "alert", "src_ip": "172.67.89.101", "alert": {"severity": 1, "signature": "Suspicious DNS Query"}}
